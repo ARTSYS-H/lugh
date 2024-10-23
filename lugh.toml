@@ -1,0 +1,41 @@
+# Author: Hadey Lucas <lhflyextra300@gmail.com>
+# Upstream: https://github.com/ARTSYS-H/lugh
+# Contributing:
+#   Please submit changes to https://github.com/ARTSYS-H/lugh
+
+inherits = "rose_pine"
+
+"ui.statusline" = { fg = "text", bg = "surface" }
+
+"keyword.control.return" = { fg = "pine", modifiers = ["italic"] }
+
+"constant.numeric" = "number"
+"constant.builtin" = "warning"
+
+"function.method" = "iris"
+
+"punctuation" = "text"
+
+"string" = { fg = "gold", modifiers = ["italic"] }
+
+"diff.plus" = "plus"
+
+[palette]
+base = "#18191a"
+surface = "#282930"
+overlay = "#363738"
+muted = "#646477"
+subtle = "#96a3b2"
+text = "#cdcdcd"
+love = "#d2788c"
+gold = "#deb896"
+number = "#d2a374"
+warning = "#e5a76f"
+rose = "#be8c8c"
+pine = "#7894ab"
+foam = "#a1b3b9"
+iris = "#b9a3ba"
+plus = "#8faf77"
+highlight_low = "#282830"
+highlight_med = "#363738"
+highlight_high = "#465362"
