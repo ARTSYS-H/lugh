@@ -1,6 +1,6 @@
 # My Helix Theme: Rosé Pine Dark Pastel - Lugh
 
-[![License](https://img.shields.io/github/license/ARTSYS-H/lugh)](https://github.com/ARTSYS-H/lugh/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/ARTSYS-H/lugh)](https://github.com/ARTSYS-H/lugh/blob/master/LICENSE)
 [![Version](https://img.shields.io/github/v/release/ARTSYS-H/lugh)](https://github.com/ARTSYS-H/lugh/releases)
 [![Stars](https://img.shields.io/github/stars/ARTSYS-H/lugh)](https://github.com/ARTSYS-H/lugh/stargazers)
 
