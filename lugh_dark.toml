@@ -1,0 +1,11 @@
+# Author: Hadey Lucas <lhflyextra300@gmail.com>
+# Upstream: https://github.com/ARTSYS-H/lugh
+# Contributing:
+#   Please submit changes to https://github.com/ARTSYS-H/lugh
+
+inherits = "lugh"
+
+[palette]
+base = "#121315"
+surface = "#16171b"
+overlay = "#262830"
