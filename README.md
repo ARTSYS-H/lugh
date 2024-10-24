@@ -8,7 +8,14 @@ A theme for the Helix editor based on **Rosé Pine** and inspired by **Vague.nvi
 
 ## 📸 Screenshot
 
-![Screenshot of Lugh](https://github.com/user-attachments/assets/06383c49-aac8-4e41-931a-7aacd7ae3a97)
+***Lugh***
+![Screenshot of Lugh](https://github.com/user-attachments/assets/1ac1d1ba-f3dd-4ff5-aa8d-18237407fb4f)
+***Lugh_dark***
+![Screenshot of Lugh_dark](https://github.com/user-attachments/assets/7fe7ae08-6d23-4cf2-ab96-b426ce819bb2)
+***Lugh_evolve***
+![Screenshot of Lugh_evolve](https://github.com/user-attachments/assets/7a9c0e11-1297-4b7c-857b-1c4daf7d0fd4)
+***Lugh_prime***
+![Screenshot of Lugh_prime](https://github.com/user-attachments/assets/ec8bbef1-20e5-4584-92e7-336e22d781c8)
 
 ## 🚀 Installation
 
