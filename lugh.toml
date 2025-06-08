@@ -14,7 +14,7 @@ inherits = "rose_pine"
 "constant.numeric" = "number"
 "constant.builtin" = "warning"
 
-"function.method" = "iris"
+# "function.method" = "iris"
 
 "punctuation" = "text"
 
