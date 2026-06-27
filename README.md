@@ -1,3 +1,11 @@
+# ⚠️ Archived Repository
+
+**This repository is no longer maintained.**
+This theme was strongly inspired by **Vague.nvim**. The original theme author has released an [official port for Helix](https://github.com/vague-theme/vague-helix).
+Please use the official version for updates, bug reports, and support.
+
+---
+
 # My Helix Theme: Rosé Pine Dark Pastel - Lugh
 
 [![License](https://img.shields.io/github/license/ARTSYS-H/lugh)](https://github.com/ARTSYS-H/lugh/blob/master/LICENSE)
